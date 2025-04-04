@@ -1,4 +1,5 @@
-#Mathematically Modeling the Environmental Effects of High-Performance Computing
+# Mathematically Modeling the Environmental Effects of High-Performance Computing
+
 With great “power” comes great responsibility. In recent years, the world has seen a massive increase and
 progression of high-powered computing (HPC). Now a critical component in AI industries, the rise of HPCs
 signifies a new area of mass energy consumption, which can lead to serious environmental impacts. In this
